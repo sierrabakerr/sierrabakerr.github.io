@@ -14,7 +14,7 @@ The minor in computer information technology prepares students to work with evol
 - CIT 281 Web Applications Development I
   - Labs
   
-    -Lab 1
+    -[Lab 1](https://sierrabakerr.github.io/cit281-lab1/)
     
     -Lab 2
     
