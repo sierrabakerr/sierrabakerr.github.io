@@ -12,7 +12,7 @@ The minor in computer information technology prepares students to work with evol
 - CIS 111 Introduction to Web Programming
 
 - CIT 281 Web Applications Development I
-  - [Labs](Labs)
+  - [Labs](cit281-lab1)
   - [Projects](Projects)
 
 ### Upper-Division Courses
