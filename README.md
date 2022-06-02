@@ -13,6 +13,7 @@ The minor in computer information technology prepares students to work with evol
 
 - CIT 281 Web Applications Development I
   - Labs
+  
     -Lab 1
     
     -Lab 2
@@ -32,6 +33,7 @@ The minor in computer information technology prepares students to work with evol
     -Lab 9
     
   - Projects
+  
     -Project 1
     
     -Project 2
