@@ -8,39 +8,17 @@ The minor in computer information technology prepares students to work with evol
 ### Lower-Division Courses
 
 - CIS 110 Fluency with Information Technology
+
 - CIS 111 Introduction to Web Programming
+-
 - CIT 281 Web Applications Development I
+  - Labs
+  - Projects
 
 ### Upper-Division Courses
 
 - CIT 381 Database Systems
+
 - CIT 382 Web Applications Development II
+
 - CIT 383 Networking Fundamentals
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/sierrabakerr/sierrabakerr.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
