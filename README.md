@@ -1,12 +1,7 @@
 ## CIT281 Minor GitHub Page
 
-Welcome to 
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### CIT Minor Information
+The minor in computer information technology prepares students to work with evolving technologies for work environments that require development and management of business databases, computer networks and information security, web applications, and software systems.
 
 ```markdown
 Syntax highlighted code block
