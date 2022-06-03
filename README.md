@@ -29,7 +29,7 @@ The minor in computer information technology prepares students to work with evol
     
     [Project 2](https://sierrabakerr.github.io/cit281-p2/)
     
-   ## WEEK 4
+  ## WEEK 4
     
     [Lab 4](https://sierrabakerr.github.io/cit281-lab4/)
     
@@ -51,17 +51,17 @@ The minor in computer information technology prepares students to work with evol
     
     [Project 5](https://sierrabakerr.github.io/cit281-p5/)
     
-   ## WEEK 8
+  ## WEEK 8
     
     [Lab 8](https://sierrabakerr.github.io/cit281-lab8/)
     
     [Project 6](https://sierrabakerr.github.io/cit281-p6/)
    
-   ## WEEK 9
+  ## WEEK 9
    
    [Lab 9](https://sierrabakerr.github.io/cit281-lab9/)
    
-   ## WEEK 10
+  ## WEEK 10
 
    [Project 7](https://sierrabakerr.github.io/cit281-p7/)
     
