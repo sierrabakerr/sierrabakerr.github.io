@@ -34,19 +34,19 @@ The minor in computer information technology prepares students to work with evol
 
   - Projects
   
-    -Project 1
+    [Project 1](https://sierrabakerr.github.io/cit281-p1/)
     
-    -Project 2
+    [Project 2](https://sierrabakerr.github.io/cit281-p2/)
     
-    -Project 3
+    [Project 3](https://sierrabakerr.github.io/cit281-p3/)
     
-    -Project 4
+    [Project 4](https://sierrabakerr.github.io/cit281-p4/)
     
-    -Project 5
+    [Project 5](https://sierrabakerr.github.io/cit281-p5/)
     
-    -Project 6
+    [Project 6](https://sierrabakerr.github.io/cit281-p6/)
     
-    -Project 7
+    [Project 7](https://sierrabakerr.github.io/cit281-p7/)
     
 ### Upper-Division Courses
 
