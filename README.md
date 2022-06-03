@@ -12,41 +12,58 @@ The minor in computer information technology prepares students to work with evol
 - CIS 111 Introduction to Web Programming
 
 - CIT 281 Web Applications Development I
-  - Labs
+
+  ## WEEK 1
   
     [Lab 1](https://sierrabakerr.github.io/cit281-lab1/)
     
+  ## WEEK 2
+
     [Lab 2](https://sierrabakerr.github.io/cit281-lab2/)
+    
+    [Project 1](https://sierrabakerr.github.io/cit281-p1/)
+    
+  ## WEEK 3
     
     [Lab 3](https://sierrabakerr.github.io/cit281-lab3/)
     
+    [Project 2](https://sierrabakerr.github.io/cit281-p2/)
+    
+   ## WEEK 4
+    
     [Lab 4](https://sierrabakerr.github.io/cit281-lab4/)
+    
+  ## WEEK 5
 
     [Lab 5](https://sierrabakerr.github.io/cit281-lab5/)
-
-    [Lab 6](https://sierrabakerr.github.io/cit281-lab6/)
-
-    [Lab 7](https://sierrabakerr.github.io/cit281-lab7/)
-    
-    [Lab 8](https://sierrabakerr.github.io/cit281-lab8/)
-    
-    [Lab 9](https://sierrabakerr.github.io/cit281-lab9/)
-
-  - Projects
-  
-    [Project 1](https://sierrabakerr.github.io/cit281-p1/)
-    
-    [Project 2](https://sierrabakerr.github.io/cit281-p2/)
     
     [Project 3](https://sierrabakerr.github.io/cit281-p3/)
     
+  ## WEEK 6
+    
+    [Lab 6](https://sierrabakerr.github.io/cit281-lab6/)
+
     [Project 4](https://sierrabakerr.github.io/cit281-p4/)
+
+  ## WEEK 7
+
+    [Lab 7](https://sierrabakerr.github.io/cit281-lab7/)
     
     [Project 5](https://sierrabakerr.github.io/cit281-p5/)
     
-    [Project 6](https://sierrabakerr.github.io/cit281-p6/)
+   ## WEEK 8
     
-    [Project 7](https://sierrabakerr.github.io/cit281-p7/)
+    [Lab 8](https://sierrabakerr.github.io/cit281-lab8/)
+    
+    [Project 6](https://sierrabakerr.github.io/cit281-p6/)
+   
+   ## WEEK 9
+   
+   [Lab 9](https://sierrabakerr.github.io/cit281-lab9/)
+   
+   ## WEEK 10
+
+   [Project 7](https://sierrabakerr.github.io/cit281-p7/)
     
 ### Upper-Division Courses
 
