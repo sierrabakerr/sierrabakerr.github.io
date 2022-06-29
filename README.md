@@ -1,5 +1,5 @@
-Sierra Baker
-# CIT Minor GitHub Page
+# Sierra Baker: CIT Minor GitHub Page
+
 
 ### CIT Minor Information
 The minor in computer information technology prepares students to work with evolving technologies for work environments that require development and management of business databases, computer networks and information security, web applications, and software systems.
