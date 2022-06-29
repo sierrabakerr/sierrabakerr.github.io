@@ -10,7 +10,8 @@ The minor in computer information technology prepares students to work with evol
 
 - CIS 110 Fluency with Information Technology
 
-## WEEK 1-10 WORK
+ ## WEEK 1-10 WORK
+ 
    [CIS 110 Index](https://sierrabakerr.github.io/cis110-index/)
 
 - CIS 111 Introduction to Web Programming
