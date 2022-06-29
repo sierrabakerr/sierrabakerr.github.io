@@ -1,3 +1,4 @@
+Sierra Baker
 # CIT Minor GitHub Page
 
 ### CIT Minor Information
